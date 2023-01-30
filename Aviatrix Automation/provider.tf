@@ -14,9 +14,9 @@ provider "aviatrix" {
 }
 */
 provider "aviatrix" {
-  controller_ip           = "3.135.245.154"
+  controller_ip           = "ip_address"
   username                = "admin"
-  password                = "World@09876"
+  password                = "xxxxx"
   skip_version_validation = false
   }
 
