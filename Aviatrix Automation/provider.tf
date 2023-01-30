@@ -20,9 +20,4 @@ provider "aviatrix" {
   skip_version_validation = false
   }
 
-provider "aws" {
-  alias  = "east2"
-  region = "us-east-2"
-  shared_credentials_file = "/Users/fahadkamal/.aws/credentials"
-  profile                 = "default"
-}
+
