@@ -1,6 +1,6 @@
-aviatrix_controller_ip = "44.208.123.105"
+aviatrix_controller_ip = "44.208.11.56"
 aviatrix_username      = "admin"
-aviatrix_password      = "World@09876"
+aviatrix_password      = "********"
 
 # aws_account_name   = "fk-account"
 azure_account_name = "fk-Azure"
